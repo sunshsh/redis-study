@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+
+jedis-demo/.idea
+redis-demo/.idea
+
+*.tar
+*.tar.gz
+*.zip
+
+*.pub
+github
+github.pub
